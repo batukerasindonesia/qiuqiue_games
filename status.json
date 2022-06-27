@@ -1,6 +1,6 @@
 {
 	"status" : true,
-	"status_check_google" : true,
+	"status_check_google" : false,
 	"start_day_check" : "22",
 	"end_day_check" : "31",
 	"master_url": "https://pulsawarung.org/core/m/Default.aspx?ref=apkwrgqq1&mobile=auto",

@@ -1,5 +1,5 @@
 {
-	"status" : false,
+	"status" : true,
 	"status_check_google" : true,
 	"start_day_check" : "22",
 	"end_day_check" : "31",
